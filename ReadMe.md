@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Chen Dan&rsquo;s website
 
-See [kbroman.org](https://kbroman.org).
+Template from [kbroman.org](https://kbroman.org).
 
 ---
 
