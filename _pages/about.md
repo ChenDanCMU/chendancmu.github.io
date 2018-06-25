@@ -10,4 +10,4 @@ redirect_from:
 
 I am a second year Ph.D. student at Computer Science Department, Carnegie Mellon University, advised by Prof. Pradeep Ravikumar. Prior to this, I received B.Sc from Peking University, where I worked with Prof. Liwei Wang.
 
-I am currently (Summer 2018) a visiting student at Toyota Technological Institute at Chicago, working with Prof. Avrim Blum.
+I am visiting Toyota Technological Institute at Chicago in summer 2018, working with Prof. Avrim Blum.
