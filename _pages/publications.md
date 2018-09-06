@@ -9,15 +9,11 @@ author_profile: true
 ### Optimal Analysis if Subset-Selection Based L_p Low Rank Approximation
 
 *Submitted*
-
 **Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou
-
-
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
 *Submitted - alphabetical order*
-
 Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan**
 
 ---
@@ -26,7 +22,6 @@ Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan
 ### Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
 
 *Submitted*, [ArXiv](https://arxiv.org/abs/1802.04397)
-
 Bryon Aragam,**Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ---
@@ -36,14 +31,11 @@ Bryon Aragam,**Chen Dan**, Pradeep Ravikumar, Eric Xing
 ### Sample Complexity of Nonparametric Semi-Supervised Learning
 
 **NIPS 2018**
-
 **Chen Dan**, Leqi Liu, Bryon Aragam, Pradeep Ravikumar, Eric Xing
 
-### Low Rank Approximation of Binary Matrices: Column Subset Selection and
-Generalizations
+### Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations
 
 **MFCS 2018**, [ArXiv](https://arxiv.org/abs/1511.01699)
-
 **Chen Dan**, Kristoffer Arnsfelt Hansen, Liwei Wang, He Jiang, Yuchen Zhou
 
 {% if author.googlescholar %}
