@@ -35,7 +35,7 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ### Sample Complexity of Nonparametric Semi-Supervised Learning
 
-*NIPS 2018*
+*NIPS 2018*, to be available soon
 
 **Chen Dan**, Leqi Liu, Bryon Aragam, Pradeep Ravikumar, Eric Xing
 
