@@ -53,7 +53,7 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ### 布尔矩阵的低秩近似
 
-[PDF (In Chinese)](https://chendancmu.github.io/files/thesis.pdf)
+[PDF (In Chinese)](https://chendancmu.github.io/files/pkuthss.pdf)
 
 Thesis Advisor: Prof. Liwei Wang
 
