@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Working Papers
 
-### Optimal Analysis if Subset-Selection Based L_p Low Rank Approximation
+### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
 *Submitted*
 
@@ -14,9 +14,11 @@ author_profile: true
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
-*Submitted - alphabetical order*
+*Submitted*
 
 Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan**
+
+\* alphabetical order
 
 ---
 ## Preprints
@@ -25,7 +27,7 @@ Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan
 
 *Submitted*, [ArXiv](https://arxiv.org/abs/1802.04397)
 
-Bryon Aragam,**Chen Dan**, Pradeep Ravikumar, Eric Xing
+Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ---
 
@@ -33,13 +35,13 @@ Bryon Aragam,**Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ### Sample Complexity of Nonparametric Semi-Supervised Learning
 
-**NIPS 2018**
+*NIPS 2018*
 
 **Chen Dan**, Leqi Liu, Bryon Aragam, Pradeep Ravikumar, Eric Xing
 
 ### Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations
 
-**MFCS 2018**, [ArXiv](https://arxiv.org/abs/1511.01699)
+*MFCS 2018*, [ArXiv](https://arxiv.org/abs/1511.01699)
 
 **Chen Dan**, Kristoffer Arnsfelt Hansen, Liwei Wang, He Jiang, Yuchen Zhou
 

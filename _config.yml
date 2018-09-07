@@ -80,37 +80,37 @@ analytics:
 author:
   name             : "Chen Dan"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Computer Science, Carnegie Mellon University"
+  bio              : "PhD Student in Computer Science, "
   location         : "Pittsburgh"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Carnegie Mellon University"
+  googlescholar    : "https://scholar.google.com/citations?user=hQQFfuwAAAAJ&hl=en"
+  email            : "cdan at cs dot cmu dot edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100001954048598"
   foursquare       :
-  github           : "academicpages"
+  github           : "chendancmu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chen-dan-16a750b4/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ChenDanCMU"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  zhihu            : "https://www.zhihu.com/people/de-an-cheng"
 
 # Reading Files
 include:
