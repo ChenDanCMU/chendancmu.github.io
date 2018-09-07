@@ -49,9 +49,7 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ## Undergraduate Thesis
 
-### On Low Rank Approximation of Binary Matrices 
-
-### 布尔矩阵的低秩近似
+### On Low Rank Approximation of Binary Matrices , 二元矩阵的低秩近似
 
 [PDF (In Chinese)](https://chendancmu.github.io/files/pkuthss.pdf)
 

@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. *summa cum laude* in Machine Intelligence, Peking University, 2016
-* Ph.D in Computer Science, 2021 (expected)
+* B.S. *summa cum laude* in Machine Intelligence, 
+  * School of EECS, Peking University, 2016
+  * Thesis Advisor: Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/index.htm)
+* Ph.D in Computer Science, 
+  * Carnegie Mellon University, 2021 (expected)
+  * Advisor: Prof. [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 Experience
 ======
 * Summer 2018: Visiting Student
-  * Totota technological Institute at Chicago
-  * Supervisor: Professor [Avrim Blum](http://ttic.uchicago.edu/~avrim/)
+  * Totota Technological Institute at Chicago
+  * Host: Prof. [Avrim Blum](http://ttic.uchicago.edu/~avrim/)
 
 
 Awards
