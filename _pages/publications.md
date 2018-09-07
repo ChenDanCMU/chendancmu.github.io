@@ -45,6 +45,21 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 **Chen Dan**, Kristoffer Arnsfelt Hansen, Liwei Wang, He Jiang, Yuchen Zhou
 
+---
+
+## Undergraduate Thesis
+
+### On Low Rank Approximation of Binary Matrices 
+
+### 布尔矩阵的低秩近似
+
+[PDF (In Chinese)](https://chendancmu.github.io/files/thesis.pdf)
+
+Thesis Advisor: Prof. Liwei Wang
+
+*Top-10 Undergraduate Thesis Award in School of EECS, 2016*
+(The only recipient in department)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -54,3 +69,4 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
