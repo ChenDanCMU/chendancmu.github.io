@@ -12,16 +12,20 @@ author_profile: true
 
 **Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou
 
+
+
+---
+## Preprints
+
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
-*Submitted*
+*Submitted*,  [ArXiv](https://arxiv.org/abs/1810.08414)
 
 Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan**
 
 \* alphabetical order
 
----
-## Preprints
+
 
 ### Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
 
