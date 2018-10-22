@@ -23,7 +23,7 @@ author_profile: true
 
 Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan**
 
-\* alphabetical order
+(alphabetical order)
 
 
 
