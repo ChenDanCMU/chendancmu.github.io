@@ -17,7 +17,7 @@ author_profile: true
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
-[ArXiv 1810.08414](https://arxiv.org/abs/1810.08414)
+[arXiv 1810.08414](https://arxiv.org/abs/1810.08414)
 
 Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan** (alphabetical order)
 
@@ -25,7 +25,7 @@ Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan
 
 ### Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
 
-[ArXiv 1802.04397](https://arxiv.org/abs/1802.04397)
+[arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
 
 Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
@@ -35,13 +35,13 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ### Sample Complexity of Nonparametric Semi-Supervised Learning
 
-*NIPS 2018*, [ArXiv 1809.03073](https://arxiv.org/abs/1809.03073)
+*NIPS 2018*, [arXiv 1809.03073](https://arxiv.org/abs/1809.03073)
 
 **Chen Dan**, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric Xing
 
 ### Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations
 
-*MFCS 2018*, [ArXiv 1511.01699](https://arxiv.org/abs/1511.01699)
+*MFCS 2018*, [arXiv 1511.01699](https://arxiv.org/abs/1511.01699)
 
 **Chen Dan**, Kristoffer Arnsfelt Hansen, Liwei Wang, He Jiang, Yuchen Zhou
 
