@@ -33,7 +33,7 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ## Conference Papers
 
-### Sample Complexity of Nonparametric Semi-Supervised Learning
+### The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models
 
 *NIPS 2018*, [arXiv 1809.03073](https://arxiv.org/abs/1809.03073)
 
