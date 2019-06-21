@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Working Papers
+
+### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
+
+**Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou
+
+
+
+---
 ## Preprints
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
