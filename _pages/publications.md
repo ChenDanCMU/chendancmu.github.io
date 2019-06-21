@@ -8,20 +8,16 @@ author_profile: true
 
 ### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
-**Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou
-
-
+**Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou, Pradeep Ravikumar
 
 ---
 ## Preprints
 
-### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
+### Adversarially Robust Generalization Just Requires More Unlabeled Data
 
-[arXiv 1810.08414](https://arxiv.org/abs/1810.08414)
+[arXiv:1906.00555](https://arxiv.org/abs/1906.00555)
 
-Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan** (alphabetical order)
-
-
+Runtian Zhai, Tianle Cai, Di He, **Chen Dan**, Kun He, John Hopcroft, Liwei Wang
 
 ### Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
 
@@ -33,9 +29,15 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ## Conference Papers
 
+### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
+
+*ESA 2019*,  [arXiv 1810.08414](https://arxiv.org/abs/1810.08414)
+
+Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan** (alphabetical order)
+
 ### The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models
 
-*NIPS 2018*, [arXiv 1809.03073](https://arxiv.org/abs/1809.03073)
+*NeurIPS 2018*, [arXiv 1809.03073](https://arxiv.org/abs/1809.03073)
 
 **Chen Dan**, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric Xing
 
