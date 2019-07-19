@@ -19,11 +19,15 @@ author_profile: true
 
 Runtian Zhai, Tianle Cai, Di He, **Chen Dan**, Kun He, John Hopcroft, Liwei Wang
 
+---
+## Journal Papers
+
 ### Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
 
-[arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
+*Annals of Statistics 2019(To Appear)*, [arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
 
 Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
+
 
 ---
 
