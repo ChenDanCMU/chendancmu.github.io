@@ -12,4 +12,22 @@ I am a 4th year Ph.D. student at [Computer Science Department, Carnegie Mellon U
 
 I visited [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in summer 2018, hosted by [Prof. Avrim Blum](https://ttic.uchicago.edu/~avrim/).
 
-My CV can be found [here](https://chendancmu.github.io/files/cv.pdf) (last update: August 2019).
+My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: August 2019).
+
+## News
+
+[August 2019] I will be a Teaching Assistant of [10-725 Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/) (Instructor: [Ryan Tibshirani](https://www.stat.cmu.edu/~ryantibs/)) in Fall 2019.
+
+[July 2019] Our paper *Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering* has been accepted by **Annals of Statistics 2019**. [arXiv](https://arxiv.org/abs/1802.04397)
+
+[June 2019] Our paper *Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem* has been accepted by **ESA 2019**.  [arXiv](https://arxiv.org/abs/1810.08414)
+
+[September 2018] Our paper *The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models* has been accepted by **NeurIPS 2018**. [arXiv](https://arxiv.org/abs/1809.03073)
+
+[June 2018] Our paper *Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations* has been accepted by **MFCS 2018**. [arXiv](https://arxiv.org/abs/1511.01699)
+
+[September 2016] I started my PhD at [Computer Science Department, Carnegie Mellon University](https://www.csd.cs.cmu.edu/).
+
+[July 2016] I got my B.Sc from  [School of EECS, Peking University](http://eecs.pku.edu.cn/Home/HOME.htm).
+
+[June 2016] I received **Top-10 Undergraduate Thesis Award** in School of EECS, Peking University. [Thesis (Chinese)](https://chendancmu.github.io/files/pkuthss.pdf), [arXiv (English)](https://arxiv.org/abs/1511.01699).
