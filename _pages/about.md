@@ -26,8 +26,11 @@ My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last updat
 
 [June 2018] Our paper *Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations* has been accepted by **MFCS 2018**. [arXiv](https://arxiv.org/abs/1511.01699)
 
+[May 2018] I became a visiting student at  [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in summer 2018, hosted by [Prof. Avrim Blum](https://ttic.uchicago.edu/~avrim/).
+
 [September 2016] I started my PhD at [Computer Science Department, Carnegie Mellon University](https://www.csd.cs.cmu.edu/).
 
 [July 2016] I got my B.Sc from  [School of EECS, Peking University](http://eecs.pku.edu.cn/Home/HOME.htm).
 
 [June 2016] I received **Top-10 Undergraduate Thesis Award** in School of EECS, Peking University. [Thesis (Chinese)](https://chendancmu.github.io/files/pkuthss.pdf), [arXiv (English)](https://arxiv.org/abs/1511.01699).
+
