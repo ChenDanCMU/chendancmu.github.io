@@ -16,6 +16,8 @@ My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last updat
 
 ## News
 
+[September 2019] Our paper *Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation* has been accepted by **NeurIPS 2019**.
+
 [August 2019] I will be a Teaching Assistant of [10-725 Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/) (Instructor: [Ryan Tibshirani](https://www.stat.cmu.edu/~ryantibs/)) in Fall 2019.
 
 [July 2019] Our paper *Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering* has been accepted by **Annals of Statistics 2019**. [arXiv](https://arxiv.org/abs/1802.04397)

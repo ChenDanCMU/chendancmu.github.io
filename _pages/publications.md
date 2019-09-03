@@ -4,12 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Working Papers
-
-### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
-
-**Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou, Pradeep Ravikumar
-
 ---
 ## Preprints
 
@@ -28,10 +22,15 @@ Runtian Zhai, Tianle Cai, Di He, **Chen Dan**, Kun He, John Hopcroft, Liwei Wang
 
 Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
-
 ---
 
 ## Conference Papers
+
+### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
+
+*NeurIPS 2019*, Preprint will be available soon
+
+**Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou, Pradeep Ravikumar
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
