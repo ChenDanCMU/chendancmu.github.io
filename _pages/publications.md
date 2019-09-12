@@ -28,7 +28,7 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 ### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
-*NeurIPS 2019*, Preprint will be available soon
+*NeurIPS 2019*, [Preprint](https://chendancmu.github.io/files/NeurIPS_Lp_preprint.pdf)
 
 **Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou, Pradeep Ravikumar
 

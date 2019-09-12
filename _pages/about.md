@@ -16,7 +16,7 @@ My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last updat
 
 ## News
 
-[September 2019] Our paper *Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation* has been accepted by **NeurIPS 2019**.
+[September 2019] Our paper *Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation* has been accepted by **NeurIPS 2019**. [Preprint](https://chendancmu.github.io/files/NeurIPS_Lp_preprint.pdf)
 
 [August 2019] I will be a Teaching Assistant of [10-725 Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/) (Instructor: [Ryan Tibshirani](https://www.stat.cmu.edu/~ryantibs/)) in Fall 2019.
 
