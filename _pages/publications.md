@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
----
+“+”: Alphabetical order or Equal contribution.
+
 ## Preprints
 
 ### Adversarially Robust Generalization Just Requires More Unlabeled Data
@@ -30,13 +31,13 @@ Bryon Aragam, **Chen Dan**, Pradeep Ravikumar, Eric Xing
 
 *NeurIPS 2019*, [Preprint](https://chendancmu.github.io/files/NeurIPS_Lp_preprint.pdf)
 
-**Chen Dan**, Hong Wang, Hongyang Zhang, Yuchen Zhou, Pradeep Ravikumar
+**Chen Dan**, Hong Wang+, Hongyang Zhang+, Yuchen Zhou+, Pradeep Ravikumar
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
 *ESA 2019*,  [arXiv 1810.08414](https://arxiv.org/abs/1810.08414)
 
-Haris Angelidakis, Pranjal Awasthi, Avrim Blum, Vaggos Chatziafratis, **Chen Dan** (alphabetical order)
+Haris Angelidakis+, Pranjal Awasthi+, Avrim Blum+, Vaggos Chatziafratis+, **Chen Dan**+
 
 ### The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models
 
