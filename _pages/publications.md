@@ -7,10 +7,15 @@ author_profile: true
 “+”: Alphabetical order or Equal contribution.
 
 ## Preprints
+### Learning Sparse Nonparametric DAGs
+
+[arXiv 1909.13189](http://arxiv.org/abs/1909.13189)
+
+Xun Zheng, **Chen Dan**, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing
 
 ### Adversarially Robust Generalization Just Requires More Unlabeled Data
 
-[arXiv:1906.00555](https://arxiv.org/abs/1906.00555)
+[arXiv 1906.00555](https://arxiv.org/abs/1906.00555)
 
 Runtian Zhai, Tianle Cai, Di He, **Chen Dan**, Kun He, John Hopcroft, Liwei Wang
 
@@ -43,7 +48,7 @@ Haris Angelidakis+, Pranjal Awasthi+, Avrim Blum+, Vaggos Chatziafratis+, **Chen
 
 *NeurIPS 2018*, [arXiv 1809.03073](https://arxiv.org/abs/1809.03073)
 
-**Chen Dan**, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric Xing
+**Chen Dan**, Liu Leqi, Bryon Aragam, Pradeep Ravikumar, Eric P. Xing
 
 ### Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations
 
