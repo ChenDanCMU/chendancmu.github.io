@@ -17,7 +17,7 @@ author_profile: true
 
 [arXiv 1906.00555](https://arxiv.org/abs/1906.00555)
 
-[Runtian Zhai](http://www.runtianzhai.com/), [Tianle Cai](http://tianle.website/), [Di He](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, Kun He, [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+[Runtian Zhai](http://www.runtianzhai.com/), [Tianle Cai](http://tianle.website/), [Di He](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
 
 ---
 ## Journal Papers
@@ -36,7 +36,7 @@ author_profile: true
 
 *NeurIPS 2019*, [Preprint](https://chendancmu.github.io/files/NeurIPS_Lp_preprint.pdf)
 
-**Chen Dan**, [Hong Wang+](https://sites.google.com/view/hongwang/home), [Hongyang Zhang+](https://www.cs.cmu.edu/~hongyanz/), [Yuchen Zhou+](https://stat.wisc.edu/staff/zhou-yuchen/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+**Chen Dan**, [Hong Wang](https://sites.google.com/view/hongwang/home)+, [Hongyang Zhang](https://www.cs.cmu.edu/~hongyanz/)+, [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)+, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 ### Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
 
@@ -54,7 +54,7 @@ author_profile: true
 
 *MFCS 2018*, [arXiv 1511.01699](https://arxiv.org/abs/1511.01699)
 
-**Chen Dan**, [Kristoffer Arnsfelt Hansen](http://www.cs.au.dk/~arnsfelt/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/), He Jiang, [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)
+**Chen Dan**, [Kristoffer Arnsfelt Hansen](http://www.cs.au.dk/~arnsfelt/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/), [He Jiang](https://scholar.google.com/citations?user=CnAuFCYAAAAJ&hl=en), [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)
 
 ---
 
