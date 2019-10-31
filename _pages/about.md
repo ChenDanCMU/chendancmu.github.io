@@ -12,7 +12,9 @@ I am a 4th year Ph.D. student at [Computer Science Department, Carnegie Mellon U
 
 I visited [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in summer 2018, hosted by [Prof. Avrim Blum](https://ttic.uchicago.edu/~avrim/).
 
-My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: September 2019).
+My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: September 2019). 
+
+My hometown is [Shanghai, China](https://en.wikipedia.org/wiki/Shanghai).
 
 ## News
 
