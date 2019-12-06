@@ -34,7 +34,7 @@ author_profile: true
 
 ### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
-*NeurIPS 2019*, [arXiv 1910.13618](https://arxiv.org/abs/1910.13618)
+*NeurIPS 2019*, [arXiv 1910.13618](https://arxiv.org/abs/1910.13618), [Poster](https://chendancmu.github.io/files/NeurIPS_Lp_poster.pdf)
 
 **Chen Dan**, [Hong Wang](https://sites.google.com/view/hongwang/home)+, [Hongyang Zhang](https://www.cs.cmu.edu/~hongyanz/)+, [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)+, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
