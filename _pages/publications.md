@@ -17,7 +17,7 @@ author_profile: true
 
 [arXiv 1906.00555](https://arxiv.org/abs/1906.00555)
 
-[Runtian Zhai]`*`(http://www.runtianzhai.com/), [Tianle Cai]`*`(http://tianle.website/), [Di He]`*`(https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+[Runtian Zhai`*`](http://www.runtianzhai.com/), [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
 
 ---
 ## Journal Papers
@@ -36,7 +36,7 @@ author_profile: true
 
 *ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
 
-[Runtian Zhai]`*`(http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He]`*`(https://www.microsoft.com/en-us/research/people/dihe/), Huan Zhang, Boqing Gong, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), Cho-Jui Hsieh, [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+[Runtian Zhai`*`](http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), Huan Zhang, Boqing Gong, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), Cho-Jui Hsieh, [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
 
 ### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
@@ -48,7 +48,7 @@ author_profile: true
 
 *ESA 2019*,  [arXiv 1810.08414](https://arxiv.org/abs/1810.08414)
 
-[Haris Angelidakis]`*`(http://n.ethz.ch/~angelidc/), [Pranjal Awasthi]`*`(https://www.cs.rutgers.edu/~pa336/), [Avrim Blum]`*`(https://ttic.uchicago.edu/~avrim/), [Vaggos Chatziafratis]`*`(https://cs.stanford.edu/~vaggos/), **Chen Dan**`*`
+[Haris Angelidakis`*`](http://n.ethz.ch/~angelidc/), [Pranjal Awasthi`*`](https://www.cs.rutgers.edu/~pa336/), [Avrim Blum`*`](https://ttic.uchicago.edu/~avrim/), [Vaggos Chatziafratis`*`](https://cs.stanford.edu/~vaggos/), **Chen Dan**`*`
 
 ### The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models
 
