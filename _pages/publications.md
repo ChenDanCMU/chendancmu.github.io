@@ -32,6 +32,12 @@ author_profile: true
 
 ## Conference Papers
 
+### MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius
+
+*ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
+
+[Runtian Zhai](http://www.runtianzhai.com/), **Chen Dan**, [Di He](https://www.microsoft.com/en-us/research/people/dihe/), Huan Zhang, Boqing Gong, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), Cho-Jui Hsieh, [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+
 ### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
 *NeurIPS 2019*, [arXiv 1910.13618](https://arxiv.org/abs/1910.13618), [Poster](https://chendancmu.github.io/files/NeurIPS_Lp_poster.pdf)

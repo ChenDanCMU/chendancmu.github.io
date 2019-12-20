@@ -18,6 +18,8 @@ My hometown is [Shanghai, China](https://en.wikipedia.org/wiki/Shanghai).
 
 ## News
 
+[December 2019] Our paper *MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius* has been accepted to **ICLR 2020**. [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
+
 [September 2019] Our paper *Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation* has been accepted by **NeurIPS 2019**. [arXiv](https://arxiv.org/abs/1910.13618), [Poster](https://chendancmu.github.io/files/NeurIPS_Lp_poster.pdf)
 
 [August 2019] I TA'ed for [10-725 Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/) (Instructor: [Ryan Tibshirani](https://www.stat.cmu.edu/~ryantibs/)) in Fall 2019.
