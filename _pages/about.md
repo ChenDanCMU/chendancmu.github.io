@@ -14,8 +14,6 @@ I visited [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in 
 
 My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: September 2019). 
 
-My hometown is [Shanghai, China](https://en.wikipedia.org/wiki/Shanghai).
-
 ## News
 
 [December 2019] Our paper *MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius* has been accepted by **ICLR 2020**. [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
