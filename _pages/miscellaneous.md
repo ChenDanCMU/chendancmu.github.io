@@ -12,8 +12,3 @@ I like open-source software, especially the ones that respect user privacy. Some
 
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
