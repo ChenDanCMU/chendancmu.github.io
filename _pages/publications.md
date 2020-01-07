@@ -7,11 +7,6 @@ author_profile: true
 `*`: Alphabetical order or Equal contribution.
 
 ## Preprints
-### Learning Sparse Nonparametric DAGs
-
-[arXiv 1909.13189](http://arxiv.org/abs/1909.13189)
-
-[Xun Zheng](http://www.cs.cmu.edu/~xunzheng/), **Chen Dan**, [Bryon Aragam](https://www.bryonaragam.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)
 
 ### Adversarially Robust Generalization Just Requires More Unlabeled Data
 
@@ -31,6 +26,12 @@ author_profile: true
 ---
 
 ## Conference Papers
+
+### Learning Sparse Nonparametric DAGs
+
+*AISTATS 2020*, [arXiv 1909.13189](http://arxiv.org/abs/1909.13189)
+
+[Xun Zheng](http://www.cs.cmu.edu/~xunzheng/), **Chen Dan**, [Bryon Aragam](https://www.bryonaragam.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)
 
 ### MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius
 

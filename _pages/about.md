@@ -15,6 +15,7 @@ I visited [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in 
 My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: September 2019). 
 
 ## News
+[January 2020] Our paper *Learning Sparse Nonparametric DAGs* has been accepted by **AISTATS 2020**. [arXiv](http://arxiv.org/abs/1909.13189)
 
 [December 2019] Our paper *MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius* has been accepted by **ICLR 2020**. [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
 
