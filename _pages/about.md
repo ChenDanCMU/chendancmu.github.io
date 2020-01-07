@@ -12,7 +12,7 @@ I am a 4th year Ph.D. student at [Computer Science Department, Carnegie Mellon U
 
 I visited [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in summer 2018, hosted by [Prof. Avrim Blum](https://ttic.uchicago.edu/~avrim/).
 
-My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: September 2019). 
+My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: January 2020). **I am looking for research internships in summer 2020.**
 
 ## News
 [January 2020] Our paper *Learning Sparse Nonparametric DAGs* has been accepted by **AISTATS 2020**. [arXiv](http://arxiv.org/abs/1909.13189)
