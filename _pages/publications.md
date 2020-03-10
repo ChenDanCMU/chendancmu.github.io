@@ -10,7 +10,8 @@ author_profile: true
 ###  Learning Complexity of Simulated Annealing
 
 [arXiv 2003.02981](https://arxiv.org/abs/2003.02981)
-[Avrim Blum`*`](https://ttic.uchicago.edu/~avrim/), **Chen Dan**`*`, [Saeed Seddighin](https://sites.google.com/view/saeedrezaseddighin)
+
+[Avrim Blum`*`](https://ttic.uchicago.edu/~avrim/), **Chen Dan**`*`, [Saeed Seddighin`*`](https://sites.google.com/view/saeedrezaseddighin)
 
 
 ### Adversarially Robust Generalization Just Requires More Unlabeled Data
