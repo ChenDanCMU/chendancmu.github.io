@@ -7,6 +7,12 @@ author_profile: true
 `*`: Alphabetical order or Equal contribution.
 
 ## Preprints
+###  Class-Weighted Classification: Trade-offs and Robust Approaches
+
+[arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
+
+Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+
 ###  Learning Complexity of Simulated Annealing
 
 [arXiv 2003.02981](https://arxiv.org/abs/2003.02981)
