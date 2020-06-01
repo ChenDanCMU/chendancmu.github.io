@@ -7,11 +7,6 @@ author_profile: true
 `*`: Alphabetical order or Equal contribution.
 
 ## Preprints
-###  Class-Weighted Classification: Trade-offs and Robust Approaches
-
-[arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
-
-Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 ###  Learning Complexity of Simulated Annealing
 
@@ -38,6 +33,18 @@ Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikuma
 ---
 
 ## Conference Papers
+
+###  Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification
+
+*ICML 2020*, To Appear.
+
+**Chen Dan**, [Yuting Wei](http://www.stat.cmu.edu/~ytwei/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+
+###  Class-Weighted Classification: Trade-offs and Robust Approaches
+
+*ICML 2020*, [arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
+
+Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 ### Learning Sparse Nonparametric DAGs
 
