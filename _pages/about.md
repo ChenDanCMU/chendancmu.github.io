@@ -15,6 +15,7 @@ I visited [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in 
 My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last update: January 2020). 
 
 ## News
+
 [May 2020] Our paper *Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification* has been accepted by **ICML 2020**.
 
 [May 2020] Our paper *Class-Weighted Classification: Trade-offs and Robust Approaches* has been accepted by **ICML 2020**. [arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
