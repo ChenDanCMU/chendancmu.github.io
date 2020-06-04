@@ -1,10 +1,9 @@
 ---
 -layout: archive
-title: "Publications"
-permalink: /publications/
+title: "News"
+permalink: /news/
 author_profile: true
 ---
-<<<<<<< HEAD
 - [May 2020] Our paper *Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification* has been accepted by **ICML 2020**.
 - [May 2020] Our paper *Class-Weighted Classification: Trade-offs and Robust Approaches* has been accepted by **ICML 2020**. [arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
 - [January 2020] Our paper *Learning Sparse Nonparametric DAGs* has been accepted by **AISTATS 2020**. [arXiv](http://arxiv.org/abs/1909.13189)
@@ -20,6 +19,8 @@ author_profile: true
 - [July 2016] I got my B.Sc from  [School of EECS, Peking University](http://eecs.pku.edu.cn/Home/HOME.htm).
 - [June 2016] I received **Top-10 Undergraduate Thesis Award** in School of EECS, Peking University. [Thesis (Chinese)](https://chendancmu.github.io/files/pkuthss.pdf), [arXiv (English)](https://arxiv.org/abs/1511.01699).
 =======
+=======
+>>>>>>> parent of d626581... rename
 `*`: Alphabetical order or Equal contribution.
 
 ## Preprints
@@ -98,4 +99,7 @@ Thesis Advisor: Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
   {% include archive-single.html %}
 {% endfor %}
 
+<<<<<<< HEAD
+>>>>>>> parent of d626581... rename
+=======
 >>>>>>> parent of d626581... rename
