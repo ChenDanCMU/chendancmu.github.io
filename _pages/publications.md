@@ -26,9 +26,9 @@ author_profile: true
 
 ### Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
 
-*Annals of Statistics 2019*, [arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
+- *Annals of Statistics 2019*, [arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
 
-[Bryon Aragam](https://www.bryonaragam.com/), **Chen Dan**, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)
+- [Bryon Aragam](https://www.bryonaragam.com/), **Chen Dan**, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)
 
 ---
 
