@@ -1,6 +1,6 @@
 ---
 -layout: archive
-title: "News"
+title: "publi"
 permalink: /news/
 author_profile: true
 ---
