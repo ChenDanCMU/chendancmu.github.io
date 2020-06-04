@@ -44,7 +44,7 @@ author_profile: true
 
 *ICML 2020*, [arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
 
-Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
+[Ziyu Neil Xu](https://www.linkedin.com/in/neilzxu/), **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 ### Learning Sparse Nonparametric DAGs
 
