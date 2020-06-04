@@ -19,7 +19,7 @@ author_profile: true
 
 [arXiv 1906.00555](https://arxiv.org/abs/1906.00555)
 
-[Runtian Zhai`*`](http://www.runtianzhai.com/), [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+[Runtian Zhai`*`](http://www.runtianzhai.com/), [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.liweiwang-pku.com/)
 
 ---
 ## Journal Papers
@@ -56,7 +56,7 @@ Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikuma
 
 *ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
 
-[Runtian Zhai`*`](http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), Huan Zhang, Boqing Gong, [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), Cho-Jui Hsieh, [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/)
+[Runtian Zhai`*`](http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), [Huan Zhang](https://www.huan-zhang.com/), [Boqing Gong](http://boqinggong.info/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Liwei Wang](http://www.liweiwang-pku.com/)
 
 ### Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
 
@@ -80,7 +80,7 @@ Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikuma
 
 *MFCS 2018*, [arXiv 1511.01699](https://arxiv.org/abs/1511.01699)
 
-**Chen Dan**, [Kristoffer Arnsfelt Hansen](http://www.cs.au.dk/~arnsfelt/), [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/), [He Jiang](https://scholar.google.com/citations?user=CnAuFCYAAAAJ&hl=en), [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)
+**Chen Dan**, [Kristoffer Arnsfelt Hansen](http://www.cs.au.dk/~arnsfelt/), [Liwei Wang](http://www.liweiwang-pku.com/), [He Jiang](https://scholar.google.com/citations?user=CnAuFCYAAAAJ&hl=en), [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)
 
 ---
 
@@ -90,7 +90,7 @@ Ziyu Xu, **Chen Dan**, [Justin Khim](https://justinkhim.com/), [Pradeep Ravikuma
 
 [PDF (In Chinese)](https://chendancmu.github.io/files/pkuthss.pdf)
 
-Thesis Advisor: Prof. [Liwei Wang](http://www.cis.pku.edu.cn/faculty/vision/wangliwei/).
+Thesis Advisor: Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
 
 *Top-10 Undergraduate Thesis Award in School of EECS, 2016*
 (The only recipient in department of Machine Intelligence)
