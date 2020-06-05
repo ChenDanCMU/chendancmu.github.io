@@ -98,8 +98,3 @@ Thesis Advisor: Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-<<<<<<< HEAD
->>>>>>> parent of d626581... rename
-=======
->>>>>>> parent of d626581... rename
