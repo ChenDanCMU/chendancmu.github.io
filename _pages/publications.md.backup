@@ -28,7 +28,7 @@ author_profile: true
 ## Conference Papers
 
 1. Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification
- - *ICML 2020*, To Appear.
+ - *ICML 2020*, [PDF](https://chendancmu.github.io/files/icml20_robust_full.pdf)
  - **Chen Dan**, [Yuting Wei](http://www.stat.cmu.edu/~ytwei/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 1. Class-Weighted Classification: Trade-offs and Robust Approaches
@@ -81,20 +81,3 @@ Thesis Advisor: Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-## News
-
-- [May 2020] Our paper *Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification* has been accepted by **ICML 2020**.
-- [May 2020] Our paper *Class-Weighted Classification: Trade-offs and Robust Approaches* has been accepted by **ICML 2020**. [arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
-- [January 2020] Our paper *Learning Sparse Nonparametric DAGs* has been accepted by **AISTATS 2020**. [arXiv](http://arxiv.org/abs/1909.13189)
-- [December 2019] Our paper *MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius* has been accepted by **ICLR 2020**. [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
-- [September 2019] Our paper *Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation* has been accepted by **NeurIPS 2019**. [arXiv](https://arxiv.org/abs/1910.13618), [Poster](https://chendancmu.github.io/files/NeurIPS_Lp_poster.pdf)
-- [August 2019] I TA'ed for [10-725 Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/) (Instructor: [Ryan Tibshirani](https://www.stat.cmu.edu/~ryantibs/)) in Fall 2019.
-- [July 2019] Our paper *Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering* has been accepted by **Annals of Statistics 2019**. [arXiv](https://arxiv.org/abs/1802.04397)
-- [June 2019] Our paper *Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem* has been accepted by **ESA 2019**.  [arXiv](https://arxiv.org/abs/1810.08414)
-- [September 2018] Our paper *The Sample Complexity of Semi-Supervised Learning with Nonparametric Mixture Models* has been accepted by **NeurIPS 2018**. [arXiv](https://arxiv.org/abs/1809.03073),[Poster](https://chendancmu.github.io/files/NeurIPS_SSL_poster.pdf)
-- [June 2018] Our paper *Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations* has been accepted by **MFCS 2018**. [arXiv](https://arxiv.org/abs/1511.01699)
-- [May 2018] I was a visiting student at  [Toyota Technological Institute at Chicago](https://www.ttic.edu/) in summer 2018, hosted by [Prof. Avrim Blum](https://ttic.uchicago.edu/~avrim/).
-- [September 2016] I started my PhD at [Computer Science Department, Carnegie Mellon University](https://www.csd.cs.cmu.edu/).
-- [July 2016] I got my B.Sc from  [School of EECS, Peking University](http://eecs.pku.edu.cn/Home/HOME.htm).
-- [June 2016] I received **Top-10 Undergraduate Thesis Award** in School of EECS, Peking University. [Thesis (Chinese)](https://chendancmu.github.io/files/pkuthss.pdf), [arXiv (English)](https://arxiv.org/abs/1511.01699).
