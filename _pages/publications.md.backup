@@ -28,7 +28,7 @@ author_profile: true
 ## Conference Papers
 
 1. Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification
- - *ICML 2020*, [PDF](https://chendancmu.github.io/files/icml20_robust_full.pdf)
+ - *ICML 2020*, [arXiv 2006.16384](https://arxiv.org/abs/2006.16384)
  - **Chen Dan**, [Yuting Wei](http://www.stat.cmu.edu/~ytwei/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/)
 
 1. Class-Weighted Classification: Trade-offs and Robust Approaches
