@@ -16,7 +16,7 @@ My CV can be found [here](https://chendancmu.github.io/files/CV.pdf) (last updat
 
 ## News
 
-- [May 2020] Our paper *Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification* has been accepted by **ICML 2020**. [arXiv 2006.16384](https://arxiv.org/abs/2005.16384)
+- [May 2020] Our paper *Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification* has been accepted by **ICML 2020**. [arXiv 2006.16384](https://arxiv.org/abs/2006.16384)
 - [May 2020] Our paper *Class-Weighted Classification: Trade-offs and Robust Approaches* has been accepted by **ICML 2020**. [arXiv 2005.12914](https://arxiv.org/abs/2005.12914)
 - [January 2020] Our paper *Learning Sparse Nonparametric DAGs* has been accepted by **AISTATS 2020**. [arXiv](http://arxiv.org/abs/1909.13189)
 - [December 2019] Our paper *MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius* has been accepted by **ICLR 2020**. [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
