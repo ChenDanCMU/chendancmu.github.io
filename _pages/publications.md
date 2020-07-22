@@ -14,7 +14,7 @@ author_profile: true
 
 1. Adversarially Robust Generalization Just Requires More Unlabeled Data
  - [arXiv 1906.00555](https://arxiv.org/abs/1906.00555)
- - [Runtian Zhai`*`](http://www.runtianzhai.com/), [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang](http://www.liweiwang-pku.com/)
+ - [Runtian Zhai`*`](http://www.runtianzhai.com/), [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang][Liwei Wang]
 
 ---
 ## Journal Papers
@@ -41,11 +41,11 @@ author_profile: true
 
 1. MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius
  - *ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
- - [Runtian Zhai`*`](http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), [Huan Zhang](https://www.huan-zhang.com/), [Boqing Gong](http://boqinggong.info/), [Pradeep Ravikumar][Pradeep Ravikumar], [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Liwei Wang](http://www.liweiwang-pku.com/)
+ - [Runtian Zhai`*`](http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), [Huan Zhang](https://www.huan-zhang.com/), [Boqing Gong](http://boqinggong.info/), [Pradeep Ravikumar][Pradeep Ravikumar], [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Liwei Wang][Liwei Wang]
 
 1. Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
  - *NeurIPS 2019*, [arXiv 1910.13618](https://arxiv.org/abs/1910.13618), [Poster](https://chendancmu.github.io/files/NeurIPS_Lp_poster.pdf)
- - **Chen Dan**, [Hong Wang](https://sites.google.com/view/hongwang/home)`*`, [Hongyang Zhang](https://www.cs.cmu.edu/~hongyanz/)`*`, [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)`*`, [Pradeep Ravikumar][Pradeep Ravikumar]
+ - **Chen Dan**, [Hong Wang](https://sites.google.com/view/hongwang/home)`*`, [Hongyang Zhang](https://www.cs.cmu.edu/~hongyanz/)`*`, [Yuchen Zhou][Yuchen Zhou]`*`, [Pradeep Ravikumar][Pradeep Ravikumar]
 
 1. Bilu-Linial Stability, Certified Algorithms and the Independent Set Problem
  - *ESA 2019*,  [arXiv 1810.08414](https://arxiv.org/abs/1810.08414)
@@ -57,7 +57,7 @@ author_profile: true
 
 1. Low Rank Approximation of Binary Matrices: Column Subset Selection and Generalizations
  - *MFCS 2018*, [arXiv 1511.01699](https://arxiv.org/abs/1511.01699)
- - **Chen Dan**, [Kristoffer Arnsfelt Hansen](http://www.cs.au.dk/~arnsfelt/), [Liwei Wang](http://www.liweiwang-pku.com/), [He Jiang](https://scholar.google.com/citations?user=CnAuFCYAAAAJ&hl=en), [Yuchen Zhou](https://stat.wisc.edu/staff/zhou-yuchen/)
+ - **Chen Dan**, [Kristoffer Arnsfelt Hansen](http://www.cs.au.dk/~arnsfelt/), [Liwei Wang][Liwei Wang], [He Jiang](https://scholar.google.com/citations?user=CnAuFCYAAAAJ&hl=en), [Yuchen Zhou][Yuchen Zhou]
 
 ---
 
@@ -67,7 +67,7 @@ author_profile: true
 
 [PDF (In Chinese)](https://chendancmu.github.io/files/pkuthss.pdf)
 
-Thesis Advisor: Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
+Thesis Advisor: Prof. [Liwei Wang][Liwei Wang].
 
 *Top-10 Bachelor Thesis Award in School of EECS, 2016*
 (The only recipient in department of Machine Intelligence)
@@ -86,3 +86,5 @@ Thesis Advisor: Prof. [Liwei Wang](http://www.liweiwang-pku.com/).
 [Saeed Seddighin]: https://sites.google.com/view/saeedrezaseddighin
 [Bryon Aragam]: https://www.bryonaragam.com/
 [Pradeep Ravikumar]: https://www.cs.cmu.edu/~pradeepr/
+[Liwei Wang]: http://www.liweiwang-pku.com/
+[Yuchen Zhou]: http://pages.cs.wisc.edu/~yuchenzhou/
