@@ -28,7 +28,7 @@ author_profile: true
 ## Conference Papers
 
 1. Sharp Statistical Guarantees for Adversarially Robust Gaussian Classification
- - *ICML 2020*, [arXiv 2006.16384](https://arxiv.org/abs/2006.16384)
+ - *ICML 2020*, [arXiv 2006.16384](https://arxiv.org/abs/2006.16384), [Slides](https://chendancmu.github.io/files/slides_robust_minimax.pdf)
  - **Chen Dan**, [Yuting Wei](http://www.stat.cmu.edu/~ytwei/), [Pradeep Ravikumar][Pradeep Ravikumar]
 
 1. Class-Weighted Classification: Trade-offs and Robust Approaches
