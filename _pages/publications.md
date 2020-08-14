@@ -20,14 +20,14 @@ author_profile: true
 ## Journal Papers
 
 1. Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
- - *Annals of Statistics 2019*, [arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
+ - *Annals of Statistics 2020*, [Journal Version](https://projecteuclid.org/euclid.aos/1597370673), [arXiv 1802.04397](https://arxiv.org/abs/1802.04397)
  - [Bryon Aragam][Bryon Aragam], **Chen Dan**, [Pradeep Ravikumar][Pradeep Ravikumar], [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)
 
 ---
 
 ## Conference Papers
 
-1. Optimal Statistical Guarantees for Adversarially Robust Gaussian Classification
+1. Sharp Statistical Guarantees for Adversarially Robust Gaussian Classification
  - *ICML 2020*, [arXiv 2006.16384](https://arxiv.org/abs/2006.16384)
  - **Chen Dan**, [Yuting Wei](http://www.stat.cmu.edu/~ytwei/), [Pradeep Ravikumar][Pradeep Ravikumar]
 
@@ -40,7 +40,7 @@ author_profile: true
  - [Xun Zheng](http://www.cs.cmu.edu/~xunzheng/), **Chen Dan**, [Bryon Aragam][Bryon Aragam], [Pradeep Ravikumar][Pradeep Ravikumar], [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)
 
 1. MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius
- - *ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
+ - *ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr), [arXiv 2001.02378](https://arxiv.org/abs/2001.02378)
  - [Runtian Zhai`*`](http://www.runtianzhai.com/), **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), [Huan Zhang](https://www.huan-zhang.com/), [Boqing Gong](http://boqinggong.info/), [Pradeep Ravikumar][Pradeep Ravikumar], [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Liwei Wang][Liwei Wang]
 
 1. Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
