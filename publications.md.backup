@@ -7,7 +7,7 @@
 ## Preprints
 
 1. Fundamental Limits and Tradeoffs in Invariant Representation Learning
- - [arXiv 2012.10713](https://arxiv.org/abs/2012.10713)
+ - Submitted to JMLR. [arXiv 2012.10713](https://arxiv.org/abs/2012.10713)
  - [Han Zhao`*`][Han Zhao], **Chen Dan**`*`, [Bryon Aragam][Bryon Aragam], [Tommi S. Jaakkola][Tommi S. Jaakkola], [Geoffrey J. Gordon][Geoffrey J. Gordon], [Pradeep Ravikumar][Pradeep Ravikumar]
 
 1. Adversarially Robust Generalization Just Requires More Unlabeled Data
@@ -24,6 +24,11 @@
 ---
 
 ## Conference Papers
+
+1. Boosted CVaR Classification
+ - *NeurIPS 2021*. ArXiv version to be available soon!
+ - [Runtian Zhai`*`][Runtian Zhai], **Chen Dan**, [Arun Sai Suggala][Arun Sai Suggala],  [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
+
 1. DORO: Distributional and Outlier Robust Optimization
  - *ICML 2021*, [arXiv 2106.06142](https://arxiv.org/abs/2106.06142)
  - [Runtian Zhai`*`][Runtian Zhai], **Chen Dan**`*`, [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
@@ -87,3 +92,4 @@ Thesis Advisor: Prof. [Liwei Wang][Liwei Wang].
 [Geoffrey J. Gordon]: https://www.cs.cmu.edu/~ggordon/
 [Runtian Zhai]:http://www.runtianzhai.com/
 [Zico Kolter]:https://zicokolter.com/
+[Arun Sai Suggala]: 

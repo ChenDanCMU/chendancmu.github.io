@@ -16,13 +16,11 @@ My research interest is in the broad area of robust statistical learning, with a
 Email: cdan at cs dot cmu dot edu ; You may also find me on [Google Scolar](https://scholar.google.com/citations?user=hQQFfuwAAAAJ), [DBLP](https://dblp.uni-trier.de/pid/156/6710.html), and [Twitter](https://twitter.com/ChenDanCMU).
 
 ## News
-
+- [September 2021] Our Paper *Boosted CVaR Classification* has been accepted to **NeurIPS 2021**. ArXiv version to be available soon!
 - [May 2021] Our Paper *DORO: Distributional and Outlier Robust Optimization* has been accepted to **ICML 2021**. [arXiv](https://arxiv.org/abs/2106.06142)
 - [January 2021] Our paper *Learning Complexity of Simulated Annealing* has been accepted by **AISTATS 2021**. [arXiv](https://arxiv.org/abs/2003.02981)
 - [May 2020] Our paper *Sharp Statistical Guarantees for Adversarially Robust Gaussian Classification* has been accepted by **ICML 2020**. [arXiv](https://arxiv.org/abs/2006.16384)
 - [May 2020] Our paper *Class-Weighted Classification: Trade-offs and Robust Approaches* has been accepted by **ICML 2020**. [arXiv](https://arxiv.org/abs/2005.12914)
-- [January 2020] Our paper *Learning Sparse Nonparametric DAGs* has been accepted by **AISTATS 2020**. [arXiv](http://arxiv.org/abs/1909.13189)
-- [December 2019] Our paper *MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius* has been accepted by **ICLR 2020**. [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr)
 - [More...](https://chendancmu.github.io/news.html)
 
 [Avrim Blum]: https://ttic.uchicago.edu/~avrim/
