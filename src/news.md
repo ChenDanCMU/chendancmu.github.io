@@ -1,5 +1,8 @@
 # News
-- [September 2021] Our Paper *Boosted CVaR Classification* has been accepted to **NeurIPS 2021**. ArXiv version to be available soon!
+- [January 2023] Our paper "Understanding Why Generalized Reweighting Does Not Improve Over ERM" has been accepted to **ICLR 2023**.
+- [December 2022] I am joining [TTIC][TTIC] as a postdoctral researcher, working with working with Prof. [Avrim Blum][Avrim Blum].
+- [November 2022] Our paper "Fundamental Limits and Tradeoffs in Invariant Representation Learning" has been accepted to **JMLR 2022**. [arXiv](https://arxiv.org/abs/2012.10713)
+- [September 2021] Our Paper *Boosted CVaR Classification* has been accepted to **NeurIPS 2021**. [arXiv](https://arxiv.org/abs/2110.13948)
 - [May 2021] Our Paper *DORO: Distributional and Outlier Robust Optimization* has been accepted to **ICML 2021**. [arXiv](https://arxiv.org/abs/2106.06142)
 - [February 2021] I TA'ed for [Practical Data Science](https://www.datasciencecourse.org/) in the spring 2021 semester (Instructor: [Zico Kolter](https://zicokolter.com/)).
 - [January 2021] Our paper *Learning Complexity of Simulated Annealing* has been accepted by **AISTATS 2021**. [arXiv](https://arxiv.org/abs/2003.02981)

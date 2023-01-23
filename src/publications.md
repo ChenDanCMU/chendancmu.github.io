@@ -7,7 +7,7 @@
 
 ## Journal Papers
 1. Fundamental Limits and Tradeoffs in Invariant Representation Learning
- - Journal of Machine Learning (JMLR) 2022, Accepted with minor revision. [arXiv 2012.10713](https://arxiv.org/abs/2012.10713)
+ - Journal of Machine Learning (JMLR) 2022,  [arXiv 2012.10713](https://arxiv.org/abs/2012.10713)
  - [Han Zhao`*`][Han Zhao], **Chen Dan**`*`, [Bryon Aragam][Bryon Aragam], [Tommi S. Jaakkola][Tommi S. Jaakkola], [Geoffrey J. Gordon][Geoffrey J. Gordon], [Pradeep Ravikumar][Pradeep Ravikumar]
  
 1. Identifiability of Nonparametric Mixture Models and Bayes Optimal Clustering
@@ -17,6 +17,10 @@
 ---
 
 ## Conference Papers
+
+1. Understanding Why Generalized Reweighting Does Not Improve Over ERM
+ - **ICLR 2023**, [arXiv 2201.12293](https://arxiv.org/abs/2201.12293)
+ - [Runtian Zhai][Runtian Zhai], **Chen Dan**, [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
 
 1. Boosted CVaR Classification
  - *NeurIPS 2021*, [arXiv 2110.13948](https://arxiv.org/abs/2110.13948)
@@ -66,10 +70,6 @@
 
 1. MSG: Margin Sensitive Group Risk
  - In Submission
- - [Runtian Zhai][Runtian Zhai], **Chen Dan**, [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
-
-1. MSG: Margin Sensitive Group Risk
- - [arXiv 2201.12293](https://arxiv.org/abs/2201.12293)
  - [Runtian Zhai][Runtian Zhai], **Chen Dan**, [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
 
 1. Adversarially Robust Generalization Just Requires More Unlabeled Data
