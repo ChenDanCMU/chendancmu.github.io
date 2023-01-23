@@ -19,12 +19,12 @@
 ## Conference Papers
 
 1. Understanding Why Generalized Reweighting Does Not Improve Over ERM
- - **ICLR 2023**, [arXiv 2201.12293](https://arxiv.org/abs/2201.12293)
+ - *ICLR 2023*, [arXiv 2201.12293](https://arxiv.org/abs/2201.12293)
  - [Runtian Zhai][Runtian Zhai], **Chen Dan**, [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
 
 1. Boosted CVaR Classification
  - *NeurIPS 2021*, [arXiv 2110.13948](https://arxiv.org/abs/2110.13948)
- - [Runtian Zhai`*`][Runtian Zhai], **Chen Dan**, [Arun Sai Suggala][Arun Sai Suggala],  [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
+ - [Runtian Zhai][Runtian Zhai], **Chen Dan**, [Arun Sai Suggala][Arun Sai Suggala],  [Pradeep Ravikumar][Pradeep Ravikumar], [Zico Kolter][Zico Kolter]
 
 1. DORO: Distributional and Outlier Robust Optimization
  - *ICML 2021*, [arXiv 2106.06142](https://arxiv.org/abs/2106.06142)
