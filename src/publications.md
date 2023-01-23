@@ -47,7 +47,7 @@
 
 1. MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius
  - *ICLR 2020*, [OpenReview](https://openreview.net/forum?id=rJx1Na4Fwr), [arXiv 2001.02378](https://arxiv.org/abs/2001.02378)
- - [Runtian Zhai`*`][Runtian Zhai], **Chen Dan**`*`, [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), [Huan Zhang](https://www.huan-zhang.com/), [Boqing Gong](http://boqinggong.info/), [Pradeep Ravikumar][Pradeep Ravikumar], [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Liwei Wang][Liwei Wang]
+ - [Runtian Zhai`*`][Runtian Zhai], **Chen Dan**`*`, [Di He`*`](https://dihe-pku.github.io/), [Huan Zhang](https://www.huan-zhang.com/), [Boqing Gong](http://boqinggong.info/), [Pradeep Ravikumar][Pradeep Ravikumar], [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Liwei Wang][Liwei Wang]
 
 1. Optimal Analysis of Subset-Selection Based L_p Low Rank Approximation
  - *NeurIPS 2019*, [arXiv 1910.13618](https://arxiv.org/abs/1910.13618), [Poster](https://chendancmu.github.io/files/NeurIPS_Lp_poster.pdf)
@@ -74,7 +74,7 @@
 
 1. Adversarially Robust Generalization Just Requires More Unlabeled Data
  - [arXiv 1906.00555](https://arxiv.org/abs/1906.00555)
- - [Runtian Zhai`*`][Runtian Zhai], [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://www.microsoft.com/en-us/research/people/dihe/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang][Liwei Wang]
+ - [Runtian Zhai`*`][Runtian Zhai], [Tianle Cai`*`](http://tianle.website/), [Di He`*`](https://dihe-pku.github.io/), **Chen Dan**, [Kun He](http://faculty.hust.edu.cn/hekun/en/index.htm), [John Hopcroft](https://www.cs.cornell.edu/jeh/), [Liwei Wang][Liwei Wang]
 
 ---
 

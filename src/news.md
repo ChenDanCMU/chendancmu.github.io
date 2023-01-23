@@ -20,3 +20,8 @@
 - [September 2016] I started my PhD at [Computer Science Department, Carnegie Mellon University](https://www.csd.cs.cmu.edu/).
 - [July 2016] I got my B.Sc from  [School of EECS, Peking University](http://eecs.pku.edu.cn/Home/HOME.htm).
 - [June 2016] I received **Top-10 Undergraduate Thesis Award** in School of EECS, Peking University. [Thesis (Chinese)](https://chendancmu.github.io/files/pkuthss.pdf), [arXiv (English)](https://arxiv.org/abs/1511.01699).
+
+[Avrim Blum]: https://ttic.uchicago.edu/~avrim/
+[Pradeep Ravikumar]: https://www.cs.cmu.edu/~pradeepr/
+[Liwei Wang]: http://www.liweiwang-pku.com/
+[TTIC]: https://www.ttic.edu/
