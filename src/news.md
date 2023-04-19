@@ -1,6 +1,7 @@
 # News
-- [January 2023] Our paper "Understanding Why Generalized Reweighting Does Not Improve Over ERM" has been accepted to **ICLR 2023**.
-- [December 2022] I am joining [TTIC][TTIC] as a postdoctral researcher, working with working with Prof. [Avrim Blum][Avrim Blum].
+- [January 2023] I will be joining [The D. E. Shaw Group](https://www.deshaw.com/) as a Quantitative Analyst intern in Summer 2023.
+- [January 2023] Our paper "Understanding Why Generalized Reweighting Does Not Improve Over ERM" has been accepted to **ICLR 2023**. [arXiv](https://arxiv.org/abs/2201.12293)
+- [December 2022] I am joining [TTIC][TTIC] as a postdoctral researcher, working with Prof. [Avrim Blum][Avrim Blum].
 - [November 2022] Our paper "Fundamental Limits and Tradeoffs in Invariant Representation Learning" has been accepted to **JMLR 2022**. [arXiv](https://arxiv.org/abs/2012.10713)
 - [September 2021] Our Paper *Boosted CVaR Classification* has been accepted to **NeurIPS 2021**. [arXiv](https://arxiv.org/abs/2110.13948)
 - [May 2021] Our Paper *DORO: Distributional and Outlier Robust Optimization* has been accepted to **ICML 2021**. [arXiv](https://arxiv.org/abs/2106.06142)

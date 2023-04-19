@@ -110,5 +110,4 @@ Thesis Advisor: Prof. [Liwei Wang][Liwei Wang].
 [Runtian Zhai]:http://www.runtianzhai.com/
 [Zico Kolter]:https://zicokolter.com/
 [Arun Sai Suggala]: http://www.cs.cmu.edu/~asuggala/
-[Yuting Wei]:
-https://yutingwei.github.io/
+[Yuting Wei]:https://yutingwei.github.io/
